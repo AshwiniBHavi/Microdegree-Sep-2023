@@ -6,4 +6,4 @@ echo "now we are working on $s variables"
 date
 uptime
 whoami
-
+hello ashwini
