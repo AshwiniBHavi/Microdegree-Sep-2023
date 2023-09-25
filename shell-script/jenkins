@@ -1,0 +1,23 @@
+jenkins
+pipeline {
+    agent {
+        label 'node1'
+    }
+    stages {
+        stage('Build') {
+            steps {
+                //
+            }
+        }
+        stage('Test') {
+            steps {
+                //
+            }
+        }
+        stage('Deploy') {
+            steps {
+                //
+            }
+        }
+    }
+}
